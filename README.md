@@ -1,7 +1,3 @@
-Here's a GitHub profile README bio tailored for you:
-
----
-
 # Hi there! 👋
 
 I’m a **senior Computer Science and Artificial Intelligence student** passionate about building innovative solutions and solving real-world problems with technology.  
@@ -25,8 +21,7 @@ I’m a **senior Computer Science and Artificial Intelligence student** passiona
 I believe in the power of technology to shape a better future. Whether it's through impactful code, creative visuals, or teaching others, I aim to make a difference.  
 
 ## 📫 Let’s Connect!  
-- 📧 Email: [tareksaad1010101@gmail.com]  
-- 🌐 Portfolio: [Your Website/Portfolio Link]  
+- 📧 Email: [Contanct with Me](tareksaad1010101@gmail.com)
 - 🐦 Twitter: [Your Twitter Handle]  
 - 🎥 YouTube: [Your YouTube Channel Link]  
 
