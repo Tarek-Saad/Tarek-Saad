@@ -21,6 +21,6 @@ I’m a **senior Computer Science and Artificial Intelligence student** passiona
 I believe in the power of technology to shape a better future. Whether it's through impactful code, creative visuals, or teaching others, I aim to make a difference.  
 
 ## 📫 Let’s Connect!  
-- 📧 Email: [Contanct with Me](tareksaad1010101@gmail.com)
+- 
 
 
