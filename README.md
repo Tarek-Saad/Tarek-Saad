@@ -20,7 +20,4 @@ I’m a **senior Computer Science and Artificial Intelligence student** passiona
 ## 💡 What Drives Me  
 I believe in the power of technology to shape a better future. Whether it's through impactful code, creative visuals, or teaching others, I aim to make a difference.  
 
-## 📫 Let’s Connect!  
-- 
-
 
