@@ -22,6 +22,5 @@ I believe in the power of technology to shape a better future. Whether it's thro
 
 ## 📫 Let’s Connect!  
 - 📧 Email: [Contanct with Me](tareksaad1010101@gmail.com)
-- 🐦 Twitter: [Your Twitter Handle]  
-- 🎥 YouTube: [Your YouTube Channel Link]  
+
 
